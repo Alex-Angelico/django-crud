@@ -2,7 +2,7 @@
 
 ## Django CRUD
 
-Lab 27 - Django CRUD
+Lab 28 - Django CRUD
 
 Author: Alex Angelico
 
@@ -40,5 +40,4 @@ Within ```django-crud```, use ```python manage.py runserver``` and navigate to t
 
 ## Change Log
 
-1.0: *CRUD functionality fully working.* - 06 Mar 2021
-# django-crud
+1.0: *Full CRUD functionality.* - 06 Mar 2021
